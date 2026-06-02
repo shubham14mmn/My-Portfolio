@@ -6,6 +6,6 @@ export default defineConfig({
   },
 
   vite: {
-    base: "/Portfolio/",
+    base: "/",
   },
 });
